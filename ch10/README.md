@@ -255,6 +255,3 @@ replace_copy_if(beg, end, dest, pred, new_val); // 将[beg, end)中的值拷贝�
 ## [练习10.42](_42.cpp)
 
 >使用list代替vector重现实现10.2.3（第343页）中的去除重复单词的程序。
-  
-  
-<p align="center">2019.03.25-2019.03.26</p>
